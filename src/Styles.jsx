@@ -302,127 +302,77 @@ export const Works = [
 
 export const Adventure = [
   {
-    company: "SnakeHead Software",
-    role: "Senior UI/UX Designer",
-    location: "Austin, TX |  Feb 2023 - Sep 2025",
+    company: "Apsy",
+    role: "Senior UX Designer & Product Designer",
+    location: "United States | May 2023 - Sep 2025",
     list: [
       <>
-        As a <strong>Senior UI/UX Designer</strong>, I executed end-to-end design solutions for e-commerce, and
-        healthcare products, collaborating with global teams entirely in remote settings.
+        Led <strong>end-to-end UX strategy and design</strong>  for Apsy’s AI-powered app builder, transforming complex automation workflows into seamless creation experiences.
       </>,
       <>
-        Conducted UX research initiatives including <strong>stakeholder interviews, competitive analysis</strong>, and
-        <strong> usability testing</strong>, uncovering insights that directly influenced product direction.
+       Defined and scaled a <strong>unified design system architecture</strong> (tokens, components, documentation) across web and mobile, boosting design-to-dev efficiency by 40%.
       </>,
       <>
-        Redesigned user onboarding flows across<strong> web </strong>and<strong> mobile platforms</strong>, leading to a{" "}
-        <strong>35% improvement </strong>in<strong> user retention</strong> by simplifying interactions and clarifying
-        guidance.
+       Applied <strong>service blueprinting, journey mapping, and behavioral analytics</strong> to enhance onboarding, workflow automation, and AI-assisted user flows.
       </>,
       <>
-        Built and maintained scalable design systems in <strong>Figma</strong>, enabling
-        <strong> consistent UI patterns</strong> and improving<strong> handoff efficiency</strong> between design and
-        development.
+       Collaborated with engineering to align <strong>UX and micro-frontend architecture</strong>, ensuring accessibility (WCAG 2.2 / ARIA), performance, and modular scalability.
       </>,
       <>
-        Worked closely with developers in agile sprints, using <strong>Figma Dev Mode</strong> and
-        <strong> Zeplin</strong> to ensure pixel-perfect implementation and reduce design iteration cycles.
+       Conducted <strong>quantitative and qualitative research</strong> using Maze, Lookback, and UserTesting to drive design iterations that improved user satisfaction and retention.
       </>,
       <>
-        Synthesized <strong>research findings</strong> into actionable design recommendations and presented them to
-        product managers and senior stakeholders.
+       Partnered with product leadership to <strong>embed data-informed UX optimization</strong>, leveraging Mixpanel and Amplitude to increase activation metrics by 25%.
       </>,
-      <>
-        Refined <strong>UI components</strong> and flows based on iterative feedback from QA teams, product owners, and
-        end-users during <strong>UAT phases</strong>.
-      </>,
-      <>
-        Supported successful <strong>launches</strong> of cross-platform mobile apps by delivering production-ready
-        assets and ensuring adherence to <strong>platform-specific guidelines</strong>.
-      </>,
+     
     ],
+    tech:"Figma, FigJam, Adobe XD, After Effects, Protopie, Miro, Storybook, Zeroheight, Maze, Lookback, UserTesting, Optimal Workshop, Google Analytics, Mixpanel, Amplitude, WCAG 2.2, ARIA, Color Contrast Analyzer"
   },
   {
-    company: "Brixen Technologies",
+    company: "Welf Group",
     role: "UI/UX Designer",
-    location: "Atlanta, GA |  Dec 2017 - Dec 2022",
-    subRoles: [
-      {
-        role: "Senior UI/UX Designer",
-        date: "Apr 2020 - Dec 2022",
-        list: [
-          <>
-            Led the design of a <strong>data-rich dashboard</strong> for AI-driven retail execution and tracking,
-            simplifying complex analytics for grocery retailers and suppliers.
-          </>,
-          <>
-            Translated <strong>machine learning outputs</strong> into intuitive data visualizations, improving
-            operational decision-making speed by 28%.
-          </>,
-          <>
-            Designed <strong>AR-enhanced mobile experiences</strong> that enabled field employees to validate product
-            placement in real time, reducing store audit errors.
-          </>,
-          <>
-            Partnered with product managers to define <strong>feature priorities</strong>, ensuring UX direction aligned
-            with both customer needs and technical feasibility.
-          </>,
-        ],
-      },
-      {
-        role: "UI/UX Designer",
-        date: "Dec 2017 -  Mar 2020",
-        list: [
-          <>
-            Built detailed <strong>style guides</strong> and <strong>interaction patterns</strong>, which served as the
-            foundation for scalable enterprise product design.
-          </>,
-          <>
-            Facilitated <strong>design thinking workshops</strong> with stakeholders to uncover pain points and generate
-            innovative solutions for retail operations.
-          </>,
-          <>
-            Collaborated with engineers to integrate <strong>real-time data visualization</strong> into mobile and web
-            applications, ensuring seamless cross-platform usability.
-          </>,
-          <>
-            Advocated for <strong>evidence-based design</strong> by presenting research findings and prototypes to
-            executives, driving buy-in for strategic product investments.
-          </>,
-        ],
-      },
-    ],
-  },
-  {
-    company: "Wellteck IT",
-    role: "UI/UX Designer",
-    location: "Midland, TX |  Sep 2014 - Nov 2017",
+    location: "Germany | Oct 2020 - Apr 2023",
     list: [
       <>
-        Collaborated with cross-functional teams to design <strong>6+ responsive applications</strong>, accelerating
-        product release cycles by <strong>20%</strong>.
+       Designed and optimized <strong>multi-platform digital products</strong> (web & mobile) with a focus on <strong>user-centered design</strong> and <strong>responsive grid systems</strong>.
       </>,
       <>
-        Conducted <strong>10+ heuristic evaluations</strong> and <strong>5 competitive UX audits</strong>, identifying
-        25+ issues and improving task completion by <strong>30%</strong>.
+Built scalable design systems and component libraries to support agile development and maintain visual consistency across brands.
       </>,
       <>
-        Analyzed <strong>Google Analytics</strong> and <strong>user session data (100K+ visits)</strong> to reduce exit
-        rates through better navigation.
+Applied <strong>Double Diamond</strong> and <strong>Agile UX</strong> methodologies to bridge user needs, business goals, and engineering feasibility.
       </>,
       <>
-        Redesigned the onboarding experience and landing pages, leading to a <strong>25% drop in bounce rates</strong>
-        and boost in activation.
+       Created information and interaction architectures, including <strong>task flows, navigation models</strong>, and <strong>content structures</strong> for complex dashboards.
       </>,
       <>
-        Created <strong>8 personas, 10+ user flows</strong>, and <strong>15+ high-fidelity prototypes</strong> that
-        supported executive product strategy decisions.
-      </>,
-      <>
-        Partnered with engineering to implement a <strong>scalable UI design system</strong>, reducing frontend
-        development time by approximately <strong>15%</strong>.
+       Conducted <strong>A/B testing</strong> and <strong>heuristic evaluations</strong>, integrating insights into UI iterations that enhanced usability and engagement metrics.
       </>,
     ],
+    tech:"Figma, Adobe XD, Sketch, HTML5, CSS3, Sass, InVision, Material Design, Bootstrap Grid, Framer, After Effects, Hotjar, UserZoom, Optimal Workshop, Abstract, GitHub"
+  },
+  {
+    company: "Redwall",
+    role: "UI/UX Designer",
+    location: "Estonia | Aug 2015 - Sep 2020",
+    list: [
+      <>
+       Designed <strong>interactive game-based learning</strong> and <strong>e-commerce platforms</strong>, combining storytelling, gamification, and conversion-focused UX.
+      </>,
+      <>
+        Defined <strong>information architecture</strong> and <strong>user flow frameworks</strong> that improved navigation efficiency and conversion rates.
+      </>,
+      <>
+        Introduced <strong>atomic design</strong> methodology and <strong>component-based UI frameworks</strong>, establishing early design system foundations
+      </>,
+      <>
+       Collaborated <strong>cross-functionally</strong> with developers and product owners using Agile and <strong>Lean UX</strong> processes to iterate based on user feedback.
+      </>,
+      <>
+       Applied usability <strong>heuristics</strong>, <strong>persona development</strong>, and <strong>journey mapping</strong> to refine product experiences.
+      </>,
+    ],
+    tech:"Adobe XD, Sketch, Figma, Photoshop, Illustrator, After Effects, Axure RP, InVision, WordPress, Shopify, Magento themes, Google Analytics, Crazy Egg, A/B Testing"
   },
 ];
 export const Skills = [

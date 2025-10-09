@@ -49,11 +49,7 @@ export default function LandingFirstSlide() {
                 className="landingTypography"
                 lineHeight={"26px"}
               >
-                <strong>Senior UI/UX Designer </strong> with 9 years of experience in e-commerce, healthcare, and
-                enterprise platforms. Specialized in
-                <strong> UX research, design systems, and data visualization</strong>, consistently improving usability
-                and retention. Skilled at collaborating with global teams and aligning design with business goals for
-                successful product launches.
+                <strong>Senior UI/UX Designer </strong> with 10+ years of experience driving end-to-end design for global startups and enterprise products. Skilled in research, design strategy, and cross-functional collaboration to deliver impactful, user-centered digital solutions.
               </Typography>
             </Stack>
           </Stack>

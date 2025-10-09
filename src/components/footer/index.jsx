@@ -28,7 +28,7 @@ export default function Footer() {
           </>
           <Stack mt={4} gap={2} direction={isSmall ? "column" : "row"}>
             <FooterButton
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=juliarobertsdur231@gmail.com&su=Hello&body=I'd%20like%20to%20connect%20with%20you."
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=marisniibek@gmail.com&su=Hello&body=I'd%20like%20to%20connect%20with%20you."
               target="_blank"
               sx={{ backgroundColor: "#8C404E" }}
             >

@@ -29,31 +29,7 @@ export default function Adventures() {
                 <Stack>
                   <AdventureLocationTypography>{items.location}</AdventureLocationTypography>
                 </Stack>
-                {items.subRoles ? (
-                  <Stack>
-                    {items.subRoles.map(({ role, date, list }, index) => {
-                      return (
-                        <React.Fragment key={index}>
-                          <Stack direction={"row"} spacing={1}>
-                            <AdventureListRoleTypography>{role}</AdventureListRoleTypography>
-                            <AdventureListRoleTypography>-</AdventureListRoleTypography>
-                            <AdventureListTypography>{date}</AdventureListTypography>
-                          </Stack>
-
-                          <ul style={{ padding: smallScreen ? 16 : "auto" }}>
-                            {list.map((listItem, index) => {
-                              return (
-                                <li key={index}>
-                                  <AdventureListTypography>{listItem}</AdventureListTypography>
-                                </li>
-                              );
-                            })}
-                          </ul>
-                        </React.Fragment>
-                      );
-                    })}
-                  </Stack>
-                ) : (
+           
                   <Stack>
                     <ul style={{ padding: smallScreen ? 16 : "auto" }}>
                       {items.list.map((list, index) => {
@@ -61,11 +37,22 @@ export default function Adventures() {
                           <li key={index}>
                             <AdventureListTypography>{list}</AdventureListTypography>
                           </li>
+                         
+                         
                         );
                       })}
                     </ul>
                   </Stack>
-                )}
+              <Stack direction={'row'}>
+
+                          <strong style={{marginRight:'5px'}}>
+Tech: 
+                          </strong>
+                          <AdventureListTypography>
+
+                          {items.tech}
+                          </AdventureListTypography>
+                          </Stack>
               </Grid>
             </>
           );

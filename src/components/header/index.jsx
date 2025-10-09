@@ -11,7 +11,7 @@ export function Header() {
           <Logo />
         </Stack>
         <Typography sx={{ mt: 0.2, fontSize: isSmallScreen ? 13 : 16 }} className="heading">
-          Julia Roberts
+          Maris Niibek
         </Typography>
       </Stack>
     </Stack>

@@ -55,11 +55,11 @@ export default function App({ Component, pageProps }) {
   }, []);
 
   const getPageTitle = () => {
-    if (loading) return "Julia Roberts";
+    if (loading) return "Maris Niibek";
     const pathSegments = router.asPath.split("/").filter(Boolean);
     console.log("Path Segments:", pathSegments);
 
-    if (pathSegments.length === 0) return "Julia Roberts";
+    if (pathSegments.length === 0) return "Maris Niibek";
 
     const lastSegment = pathSegments[pathSegments.length - 1];
 
