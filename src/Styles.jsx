@@ -303,8 +303,8 @@ export const Works = [
 export const Adventure = [
   {
     company: "Apsy",
-    role: "Senior UX Designer & Product Designer",
-    location: "United States | May 2023 - Sep 2025",
+    role: "Senior UX/UI Designer & Product Designer",
+    location: "United States | May 2023 - Apr 2026",
     list: [
       <>
         Led <strong>end-to-end UX strategy and design</strong>  for Apsy’s AI-powered app builder, transforming complex automation workflows into seamless creation experiences.
@@ -326,7 +326,7 @@ export const Adventure = [
       </>,
      
     ],
-    tech:"Figma, FigJam, Adobe XD, After Effects, Protopie, Miro, Storybook, Zeroheight, Maze, Lookback, UserTesting, Optimal Workshop, Google Analytics, Mixpanel, Amplitude, WCAG 2.2, ARIA, Color Contrast Analyzer"
+    // tech:"Figma, FigJam, Adobe XD, After Effects, Protopie, Miro, Storybook, Zeroheight, Maze, Lookback, UserTesting, Optimal Workshop, Google Analytics, Mixpanel, Amplitude, WCAG 2.2, ARIA, Color Contrast Analyzer"
   },
   {
     company: "Welf Group",
@@ -349,7 +349,7 @@ Applied <strong>Double Diamond</strong> and <strong>Agile UX</strong> methodolog
        Conducted <strong>A/B testing</strong> and <strong>heuristic evaluations</strong>, integrating insights into UI iterations that enhanced usability and engagement metrics.
       </>,
     ],
-    tech:"Figma, Adobe XD, Sketch, HTML5, CSS3, Sass, InVision, Material Design, Bootstrap Grid, Framer, After Effects, Hotjar, UserZoom, Optimal Workshop, Abstract, GitHub"
+    // tech:"Figma, Adobe XD, Sketch, HTML5, CSS3, Sass, InVision, Material Design, Bootstrap Grid, Framer, After Effects, Hotjar, UserZoom, Optimal Workshop, Abstract, GitHub"
   },
   {
     company: "Redwall",
@@ -372,7 +372,7 @@ Applied <strong>Double Diamond</strong> and <strong>Agile UX</strong> methodolog
        Applied usability <strong>heuristics</strong>, <strong>persona development</strong>, and <strong>journey mapping</strong> to refine product experiences.
       </>,
     ],
-    tech:"Adobe XD, Sketch, Figma, Photoshop, Illustrator, After Effects, Axure RP, InVision, WordPress, Shopify, Magento themes, Google Analytics, Crazy Egg, A/B Testing"
+    // tech:"Adobe XD, Sketch, Figma, Photoshop, Illustrator, After Effects, Axure RP, InVision, WordPress, Shopify, Magento themes, Google Analytics, Crazy Egg, A/B Testing"
   },
 ];
 export const Skills = [

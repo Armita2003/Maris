@@ -43,6 +43,7 @@ export default function Adventures() {
                       })}
                     </ul>
                   </Stack>
+                  {items.tech && (
               <Stack direction={'row'}>
 
                           <strong style={{marginRight:'5px'}}>
@@ -53,6 +54,7 @@ Tech:
                           {items.tech}
                           </AdventureListTypography>
                           </Stack>
+                  )}
               </Grid>
             </>
           );
